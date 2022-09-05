@@ -164,6 +164,7 @@
 .create_contact {
     display: flex;
     justify-content: space-between;
+    width: 700px;
 
 }
 
@@ -176,7 +177,6 @@
     margin: 5px 2px;
 
 }
-
 .form>label {
     width: 60%;
 }
